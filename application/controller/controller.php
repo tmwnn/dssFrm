@@ -187,6 +187,7 @@ class CbProfilesManager
             }
         }
         // test
+        shift($restrictions);
         print_r($restrictions);
         return $restrictions;
     }
