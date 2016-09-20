@@ -158,6 +158,7 @@ class CbProfilesManager
                 'RELEASE_PORTFOLIO_CBONDS_INFO_POL',
             ),
         ),
+        'test1' => array(),
     );
 #end settings
 
