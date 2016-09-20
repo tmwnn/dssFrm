@@ -18,6 +18,7 @@ class CbProfilesManager
      */
 #if settings
     private static $settings = array(
+        'project1'=>array(),
         'global' => array(
             'entities' => array('emission', 'emitents'),
             'profiles' => array(
@@ -186,6 +187,7 @@ class CbProfilesManager
             }
         }
         // test
+        print_r($restrictions);
         return $restrictions;
     }
 }
