@@ -185,6 +185,7 @@ class CbProfilesManager
                 }
             }
         }
+        // test
         return $restrictions;
     }
 }
