@@ -18,6 +18,7 @@ class CbProfilesManager
             ),
         ),
         'test1' => array(),
+        'test2_branch' => array(),
     );
 #end settings
 
