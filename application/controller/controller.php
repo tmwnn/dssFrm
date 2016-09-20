@@ -14,6 +14,7 @@ class CbProfilesManager
                 'b',
                 'c',
                 'd',
+                'm',
             ),
         ),
         'test1' => array(),
